@@ -1,0 +1,33 @@
+#top {
+  text-align: center;
+ color: black;
+  font-weight:bold;
+}
+body {
+ background-color:#FAF5EF
+}
+#title {
+  text-align:center;
+  font-weight: bold;
+  font-size: 35px;
+    border-style:dotted;
+}
+#first, #admire, #list {
+  font-weight: bold;
+  font-size: 30px;
+    color: black;
+  align-self:center;
+}
+
+.button {
+      align-self:center;
+      background:transparent;
+      padding:6rem 6rem;
+      margin:0 1rem;
+  float: middle;
+  
+}
+  #official {
+  border: dotted 6px #41403E;
+   vertical-align: middle;
+}
