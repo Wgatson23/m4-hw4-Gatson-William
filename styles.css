@@ -41,16 +41,20 @@ body {
 }
 #list{
   font-weight: bold;
-  font-size: 30px;
+  font-size: 25px;
     color: black;
   align-self:center;
 }
-  section.off {
-    text-align: left;
-    font-style: italic
+  h3 {
+    font-weight: bold;
+    font-size: 25px;
+    align-content: center
+  }
+  .songs {
+    font-size: 18px;
   }
 footer {
-    margin: 10px 0;
+    margin: 40px 0;
 }
 .container {
   position: relative;
@@ -62,13 +66,13 @@ footer {
 }
 .container .btn {
   position: absolute;
-  top: 90%;
+  top: 88%;
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: transparent;
   color: black;
-  font-size: 30px;
+  font-size: 24px;
   padding: 12px 24px;
   border: none;
   cursor: pointer;
