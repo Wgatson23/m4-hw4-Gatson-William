@@ -102,3 +102,9 @@ footer {
 	margin-right: auto;
 	width: 50%;
 }
+
+hr {
+	border: #0A23C9;
+	border-bottom: 5px solid #2a3cad;
+	background: #2a3cad;
+}
