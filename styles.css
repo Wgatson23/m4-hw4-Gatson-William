@@ -1,17 +1,17 @@
-#top {
-	text-align: center;
-	background-color: black;
-	font-weight: bold;
-	font-size: 35px;
-	color: white;
-}
-
 body {
 	font-family: Arial, Helvetica, sans-serif;
 	background-color: #c3c9d5;
 	font-size: 18px;
 	color: black;
 	margin: auto;
+}
+
+#top {
+	text-align: center;
+	background-color: black;
+	font-weight: bold;
+	font-size: 35px;
+	color: white;
 }
 
 #title {
