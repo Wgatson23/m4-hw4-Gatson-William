@@ -5,7 +5,7 @@ body {
 	color: black;
 	margin: auto;
 }
-     
+
 #top {
 	text-align: center;
 	background-color: black;
@@ -104,7 +104,7 @@ footer {
 }
 
 hr {
-	border: #0A23C9;
+	border: #0a23c9;
 	border-bottom: 5px solid #2a3cad;
 	background: #2a3cad;
 }
